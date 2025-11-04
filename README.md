@@ -7,10 +7,9 @@ Web Developer
 * 🌍  I'm based in Saudi Arabia
 * 🖥️  See my portfolio at [MyProtfolio](http://ihussam.dev)
 * ✉️  You can contact me at [hussamalshayeb01@gmail.com](mailto:hussamalshayeb01@gmail.com)
-* 🚀  I'm currently working on ASP.NET MVC
-* 🧠  I'm learning Data Analysis
+* 🚀  I'm currently working on MERN Stack
+* 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Intersting projects
-* ⚡  Toy Story Lover
 
 <a href="https://www.twitter.com/ihussamalshayeb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ihussamalshayeb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
