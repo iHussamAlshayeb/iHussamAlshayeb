@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Saudi Arabia
-* 🖥️  See my portfolio at [MyProtfolio](http://ihussamalshayeb.github.io)
+* 🖥️  See my portfolio at [MyProtfolio](http://ihussam.dev)
 * ✉️  You can contact me at [hussamalshayeb01@gmail.com](mailto:hussamalshayeb01@gmail.com)
 * 🚀  I'm currently working on ASP.NET MVC
 * 🧠  I'm learning Data Analysis
